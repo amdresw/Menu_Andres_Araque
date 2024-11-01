@@ -22,12 +22,30 @@ Este proyecto es un sitio web  para un restaurante/servicio de comida. Incluye d
 - Font Awesome 4.7.0
 - Boxicons
 
+## Funcionalidades Principales 🚀
+
+- Navegación suave entre secciones
+- Menú de comida con imágenes y precios
+- Sección de servicios con iconos descriptivos
+- Formulario de contacto
+- Links a redes sociales
+- Diseño adaptable a diferentes dispositivos
+
+## Personalización 🎨
+
+- Los colores principales pueden ser modificados en el archivo styles.css
+- Las imágenes pueden ser reemplazadas manteniendo los mismos nombres en la carpeta images/
+- Los textos pueden ser modificados directamente en el HTML
+
+## Mejoras Futuras 📈
+- Añadir links a redes sociales
+
 ## Instalación 💻
 1. Clona este repositorio:
 ```bash
-git clone https://github.com/amdresw/VentadeHamburguesas_Andres_Araque
+git clone https://github.com/amdresw/Menu_Andres_Araque
 
-VentadeHamburguesas_Andres_Araque
+Menu_Andres_Araque
 │
 ├── css/
 │   ├── styles.css
@@ -46,20 +64,4 @@ VentadeHamburguesas_Andres_Araque
 ├── menu.html
 └── README.md
 
-## Funcionalidades Principales 🚀
 
-- Navegación suave entre secciones
-- Menú de comida con imágenes y precios
-- Sección de servicios con iconos descriptivos
-- Formulario de contacto
-- Links a redes sociales
-- Diseño adaptable a diferentes dispositivos
-
-## Personalización 🎨
-
-- Los colores principales pueden ser modificados en el archivo styles.css
-- Las imágenes pueden ser reemplazadas manteniendo los mismos nombres en la carpeta images/
-- Los textos pueden ser modificados directamente en el HTML
-
-## Mejoras Futuras 📈
-- Añadir links a redes sociales

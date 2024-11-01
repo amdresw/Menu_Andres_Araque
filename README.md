@@ -46,7 +46,7 @@ VentadeHamburguesas_Andres_Araque
 ├── menu.html
 └── README.md
 
-Funcionalidades Principales 🚀
+## Funcionalidades Principales 🚀
 
 - Navegación suave entre secciones
 - Menú de comida con imágenes y precios
@@ -55,12 +55,11 @@ Funcionalidades Principales 🚀
 - Links a redes sociales
 - Diseño adaptable a diferentes dispositivos
 
-Personalización 🎨
+## Personalización 🎨
 
 - Los colores principales pueden ser modificados en el archivo styles.css
 - Las imágenes pueden ser reemplazadas manteniendo los mismos nombres en la carpeta images/
 - Los textos pueden ser modificados directamente en el HTML
 
-Mejoras Futuras 📈
+## Mejoras Futuras 📈
 - Añadir links a redes sociales
-- 
